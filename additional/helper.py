@@ -1,5 +1,5 @@
 import pandas as pd
-from config import CSV_DATA_LOC
+from additional.config import CSV_DATA_LOC
 
 def expand_contractions(text):
     # Dictionary of common contractions
